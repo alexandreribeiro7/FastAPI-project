@@ -15,3 +15,4 @@ Ao modificar o arquivo .env sempre executar o source .env e uvicorn main:app --r
 
 http://localhost:8000/docs
 ![image](https://github.com/alexandreribeiro7/FastAPI-project/assets/89461762/e154ea03-728e-4561-af20-1549327db727)
+![image](https://github.com/alexandreribeiro7/FastAPI-project/assets/89461762/ed457bd6-d1c4-41b6-ba7d-d111ad860c09)
