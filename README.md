@@ -13,6 +13,6 @@ O projeto consta com 2 versões em modelo <b>Asíncrona</b> e <b>Assíncrona</b>
 
 Ao modificar o arquivo .env sempre executar o source .env e uvicorn main:app --reload para debugar o projeto.<br>
 
-http://localhost:8000/docs
+
 ![image](https://github.com/alexandreribeiro7/FastAPI-project/assets/89461762/e154ea03-728e-4561-af20-1549327db727)
 ![image](https://github.com/alexandreribeiro7/FastAPI-project/assets/89461762/ed457bd6-d1c4-41b6-ba7d-d111ad860c09)
